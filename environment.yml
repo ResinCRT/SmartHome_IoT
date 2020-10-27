@@ -1,4 +1,4 @@
-name: web_shopping_iot
+name: SmartHome_IoT
 channels:
   - defaults
 dependencies:
